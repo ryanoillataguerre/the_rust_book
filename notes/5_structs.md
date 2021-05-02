@@ -67,3 +67,7 @@ fn main() {
 - Have to add `#[derive(Debug)]` to top of file to use debug print notation:
   - `println!("rect1 is {:?}", rect1)` FOR STRUCTS TO PRINT
   - `println!("rect1 is {:#?}", rect1)` formats structs more cleanly
+
+# 5.3 Methods
+
+[Project](../methods/src/main.rs)
