@@ -62,7 +62,7 @@ fn main() {
 
 # 5.2 An Example Program Using Structs
 
-[Project](structs/src/main.rs)
+[Project](../structs/src/main.rs)
 
 - Have to add `#[derive(Debug)]` to top of file to use debug print notation:
   - `println!("rect1 is {:?}", rect1)` FOR STRUCTS TO PRINT
